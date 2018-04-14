@@ -1,0 +1,22 @@
+{
+  "name": "blogwhatwapp",
+  "version": "1.0.0",
+  "description": "Progetto per WhatWapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCL88/blogWhatWapp.git"
+  },
+  "author": "Michele Maresca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCL88/blogWhatWapp/issues"
+  },
+  "homepage": "https://github.com/MCL88/blogWhatWapp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
